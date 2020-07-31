@@ -88,10 +88,10 @@ $(window).on('load', function() {
     // Add logo
     if (getSetting('_mapLogo')) {
       $('#logo').append('<img src="' + getSetting('_mapLogo') + '" />');
-      $('#top').css('height', '300px');
+      $('#top').css('height', '60px');
     } else {
       $('#logo').css('display', 'none');
-      $('#header').css('padding-top', '100px');
+      $('#header').css('padding-top', '25px');
     }
 
     // Load tiles
