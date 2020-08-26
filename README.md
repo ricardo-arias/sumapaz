@@ -1,22 +1,18 @@
 # Leaflet Storymaps with Google Sheets
-Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
-Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
-
-<p align="center">
-  <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" />
-</p>
+Leaflet story map para los actores de Sumapaz, la cual esta enlazada con una hoja de cálculo de Google Sheets para el cargue de la información.
+Soporta imágenes, audio y video, además de capas geojson.
 
 ## [Live Demo](https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/)
-- The map is hosted by GitHub and can be found at https://ricardo-arias.github.io/sumapaz/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1uhvL6P4dy_rLiy_rNYiAOmNQBWoV-HBXBplAw-1JXfQ/edit#gid=0
+- Dirección URL del mapa: https://ricardo-arias.github.io/sumapaz/
+- Hoja de Cálculo de Google Sheets: https://docs.google.com/spreadsheets/d/1uhvL6P4dy_rLiy_rNYiAOmNQBWoV-HBXBplAw-1JXfQ/edit#gid=0
 
 ## Create Your Own
-- See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
+- Basado en el tutorial *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
 
 ## Credits
-Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College, CT.
+Desarrollado por [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) con el soporte del Trinity College, CT.
 
-Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html. Uses a [Google Sheets](https://www.google.com/sheets/about/) template.
+Inpirado por el Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adpatado de MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html. Uses a [Google Sheets](https://www.google.com/sheets/about/) template.
 
 ## Built Using These Libraries
 
